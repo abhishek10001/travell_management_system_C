@@ -1,0 +1,21 @@
+
+Customer ID: 123456789
+Name: abhishek
+Age: 23
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 123456789
+Name: abhishek
+Age: 20
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 123
+Name: qwerty
+Age: 12
+Mobile Number: 1234
+Address: abc
+Gender: m
